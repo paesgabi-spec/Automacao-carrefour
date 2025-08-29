@@ -1,0 +1,8 @@
+com\example\api\clients\UserClient.class
+com\example\api\tests\UserApiTest.class
+com\example\api\utils\Config.class
+com\example\api\utils\BaseClient.class
+com\example\api\models\User.class
+com\example\api\utils\ValidationRules.class
+com\example\api\clients\TokenClient.class
+com\example\api\utils\TokenFactory.class
